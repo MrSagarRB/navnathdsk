@@ -1,0 +1,78 @@
+.div-head{
+
+    background-color: burlywood;
+    text-align: right;
+    padding-right: 10px;
+}
+
+li{
+    display:inline;
+    padding-right: 10px;
+}
+
+.h1-font{
+ color: red;
+}
+
+
+
+.heder{
+    text-align: center;
+    line-height: 0;
+    padding-top: 1px;
+}
+
+.today-date{
+    text-align: right;
+    padding-right: 5rem;
+}
+
+.prati{
+
+}
+
+
+
+
+.subject{
+
+padding-left: 20rem;
+
+}
+
+
+
+.kapat-table{
+    
+}
+
+
+.kapat-div{
+
+    padding-left: 15rem;
+
+
+
+
+}
+
+
+
+.mahoday{
+
+  right: 0px;
+  width: 900px;
+ 
+  padding: 10px;
+}
+
+
+.sign1{
+    display: inline;
+    position:absolute ;
+}
+
+.sign2{
+   margin-left: 50rem;
+  
+}
