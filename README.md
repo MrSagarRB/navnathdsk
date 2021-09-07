@@ -1,2 +1,0 @@
-# navnathdsk
-Navnath Dsk  
